@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.vtiger.tests.LoginTest" duration-ms="8539" started-at="2019-08-04T10:06:44Z" finished-at="2019-08-04T10:06:52Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="8539" started-at="2019-08-04T10:06:44Z" finished-at="2019-08-04T10:06:52Z">
+      <class name="com.vtiger.tests.LoginTest">
+        <test-method status="PASS" signature="LaunchApp()[pri:0, instance:com.vtiger.tests.LoginTest@1adae5d]" name="LaunchApp" is-config="true" duration-ms="4546" started-at="2019-08-04T15:36:44Z" finished-at="2019-08-04T15:36:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchApp -->
+        <test-method status="PASS" signature="VerifyAppUrl_TC01()[pri:0, instance:com.vtiger.tests.LoginTest@1adae5d]" name="VerifyAppUrl_TC01" duration-ms="27" started-at="2019-08-04T15:36:48Z" finished-at="2019-08-04T15:36:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyAppUrl_TC01 -->
+        <test-method status="PASS" signature="VerifyInvalidLogin_TC03()[pri:0, instance:com.vtiger.tests.LoginTest@1adae5d]" name="VerifyInvalidLogin_TC03" duration-ms="887" started-at="2019-08-04T15:36:48Z" finished-at="2019-08-04T15:36:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyInvalidLogin_TC03 -->
+        <test-method status="PASS" signature="VerifyLogo_TC02()[pri:0, instance:com.vtiger.tests.LoginTest@1adae5d]" name="VerifyLogo_TC02" duration-ms="40" started-at="2019-08-04T15:36:49Z" finished-at="2019-08-04T15:36:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyLogo_TC02 -->
+        <test-method status="PASS" signature="VerifyvalidLogin_TC04()[pri:0, instance:com.vtiger.tests.LoginTest@1adae5d]" name="VerifyvalidLogin_TC04" duration-ms="2201" started-at="2019-08-04T15:36:49Z" finished-at="2019-08-04T15:36:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyvalidLogin_TC04 -->
+        <test-method status="PASS" signature="closeApp()[pri:0, instance:com.vtiger.tests.LoginTest@1adae5d]" name="closeApp" is-config="true" duration-ms="809" started-at="2019-08-04T15:36:52Z" finished-at="2019-08-04T15:36:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+      </class> <!-- com.vtiger.tests.LoginTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.vtiger.tests.LoginTest -->
+</testng-results>
